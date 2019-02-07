@@ -9,7 +9,7 @@
     width: 960px;
     color:#777;
     background: #777;
-    clear: both;
+    margin: auto;
   }
   
   header {
@@ -22,9 +22,10 @@
     padding: 20px;
     margin-bottom: 20px;
     background:#ebebeb;
-    color: #fff;
+    color: #777;
     float: left;
     width: 495px;
+    clear: both;
   }
   
   nav {
@@ -32,36 +33,45 @@
     width: 100%;
     background: #ebebeb;
     color:#777;
-  }
-  
-  #full {
-    width: 495px;
-    clear: both;
-    color: #fff;
-    background: #394549;
-    float: left;
+    padding: 20px;
   }
 
-  article {
+  #article {
     color: #ebebeb;
     background: #777;
     float: left;
+    width: 495px;
   }
   
   aside {
-    float: right;
+    float: left;
     width: 50%;
     height: 200px;
-    padding: 20px;
-    margin-left: 30px;
+    padding: 10px;
+    margin: 10px;
     text-decoration-color: white;
     background: #ebebeb;
     border: 1px solid #eee;
+    clear: both;
   }
   
+  #items{
+    color: #777;
+    background: #ebebeb;
+    padding: 10px;
+    clear: both
+  }
+
+  #happy {
+    color: #777;
+    background: #ebebeb;
+  }
+
   footer {
     padding: 20px;
     clear: both;
     background:#ebebeb;
   }
+  
+
   
