@@ -23,9 +23,8 @@
     margin: 10px;
     background:#ebebeb;
     color: #777;
-    width: 495px;
+    width: 50%;
     float: left;
-    clear: both;
   }
   
   nav {
@@ -33,7 +32,7 @@
     width: 100%;
     background: #ebebeb;
     color:#777;
-    padding: 20px;
+    padding: 25px;
   }
 
   #article {
@@ -51,7 +50,6 @@
     background: #ebebeb;
     border: 1px solid #eee;
     float: right;
-    clear: both;
   }
   
   #items{
