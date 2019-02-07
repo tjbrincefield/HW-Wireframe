@@ -19,12 +19,12 @@
   }
   
   section {
-    padding: 20px;
-    margin-bottom: 20px;
+    padding: 10px;
+    margin: 10px;
     background:#ebebeb;
     color: #777;
-    float: left;
     width: 495px;
+    float: left;
     clear: both;
   }
   
@@ -39,19 +39,18 @@
   #article {
     color: #ebebeb;
     background: #777;
-    float: left;
-    width: 495px;
+    margin: 10px;
   }
   
   aside {
-    float: left;
-    width: 50%;
+    width: 45%;
     height: 200px;
     padding: 10px;
     margin: 10px;
     text-decoration-color: white;
     background: #ebebeb;
     border: 1px solid #eee;
+    float: right;
     clear: both;
   }
   
@@ -59,12 +58,13 @@
     color: #777;
     background: #ebebeb;
     padding: 10px;
-    clear: both
+    margin: 15px;
   }
 
   #happy {
     color: #777;
     background: #ebebeb;
+    margin: 15px;
   }
 
   footer {
@@ -73,5 +73,5 @@
     background:#ebebeb;
   }
   
-
+ 
   
